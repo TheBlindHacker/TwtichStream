@@ -1,6 +1,6 @@
 # 2019 Pride Stream Schedule
 
-| Title/Description | Speaker | Start Time | End Time |
+| Title/Description | Speaker | Start Time (EST) | End Time (EST) |
 |--------------------------------------------------------------------|:-------------------:|:----------:|:--------:|
 | **Starting Soon** <br> -- Stream Starts early to get guest in | Hosts | 1145 | 1200 |
 | **Intro** <br> -- Who we are and why we are doing this | Hosts | 1200 | 1230 |
