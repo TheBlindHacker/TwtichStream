@@ -8,5 +8,7 @@
 | **The Fox** <br> -- Egghunting | Hosts and [@purpl3f0x](ttps://twitter.com/purpl3_f0x) | 1300 | 1400 |
 | **Google CTF** <br> -- CTF Time (lose)  | Hosts (Open Door)   | 1400 | 1600 |
 | **Job Interview** <br> -- Interviewing Soldena for the job | Hosts and Soldena | 1600 | 1700 |
+| **reversing it with ZetaTwo** <br> -- RT CTF challange | Hosts and [@ZetaTwo](https://twitter.com/ZetaTwo) | 1700 | 1800 |
+
 
 
