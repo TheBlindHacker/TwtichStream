@@ -15,3 +15,4 @@
 | **open** <br> -- You can do it | Hosts and Guest | 1800 | 1900 |
 | **open** <br> -- You can do it | Hosts and Guest | 1900 | 2000 |
 | **Closing and Credits** <br> -- Equality VA Mission Statement | Hosts and Guest | 2000 | 2000 |
+ 
