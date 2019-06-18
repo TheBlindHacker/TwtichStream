@@ -1,6 +1,7 @@
-# TwtichStream
+# TwtichStream Saturday June 22nd, 2019
 
-# 2019 Pride Stream Schedule
+# 2019 Pride Charity Stream Schedule benefiting @EqualityVA 
+# equalityvirginia.org
 
 | Title/Description | Speaker | Start Time (EST) | End Time (EST) |
 |--------------------------------------------------------------------|:-------------------:|:----------:|:--------:|
@@ -13,6 +14,4 @@
 | **Reversing it with ZetaTwo** <br> -- RE CTF challenge | Hosts and [@ZetaTwo](https://twitter.com/ZetaTwo) | 1700 | 1800 |
 | **open** <br> -- You can do it | Hosts and Guest | 1800 | 1900 |
 | **open** <br> -- You can do it | Hosts and Guest | 1900 | 2000 |
-| **Closing and Credits** <br> -- EqualityVA Mission Statement | Hosts and Guest | 2000 | 2000 |
-
-
+| **Closing and Credits** <br> -- Equality VA Mission Statement | Hosts and Guest | 2000 | 2000 |
