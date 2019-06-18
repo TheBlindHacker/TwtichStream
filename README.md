@@ -1,7 +1,6 @@
 # TwtichStream Saturday June 22nd, 2019
 
-# 2019 Pride Charity Stream Schedule benefiting @EqualityVA 
-# equalityvirginia.org
+# 2019 Pride Charity Stream Schedule benefiting @EqualityVA equalityvirginia.org
 
 | Title/Description | Speaker | Start Time (EST) | End Time (EST) |
 |--------------------------------------------------------------------|:-------------------:|:----------:|:--------:|
